@@ -1,5 +1,5 @@
 # 你好，我是黄俊鑫 👋✨
-https://th.bing.com/th/id/OIP.NCjRipLKkVX0Q-RvQSS7KgHaEK?pid=ImgDet&w=474&h=266&rs=1
+![Banner]https://th.bing.com/th/id/OIP.NCjRipLKkVX0Q-RvQSS7KgHaEK?pid=ImgDet&w=474&h=266&rs=1
 
 
 - 🏫 来自 **成都理工大学行星科学国际研究中心**  
