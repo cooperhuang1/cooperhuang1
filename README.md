@@ -11,7 +11,7 @@
 
 ## 🛠 My Skills
 ![Skills](https://skillicons.dev/icons?i=python,ai,quantum,tensorflow,pytorch,git)  
-*Python’s my go-to, and I’m loving the adventure with AI and quantum computing!*
+*Python’s my go-to, and I’m loving the adventure with AI and  Ab initio Calculation!*
 
 ## 🌟 About Me
 I’m passionate about unraveling the universe’s secrets through code—from quantum mechanics to planetary science, every line feels like a little magic spell 🪄. Right now, I’m building smart tools to assist research, dreaming of a future where AI becomes a scientist’s best buddy!
