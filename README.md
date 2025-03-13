@@ -3,8 +3,8 @@
 ![Banner](https://th.bing.com/th/id/OIP.NCjRipLKkVX0Q-RvQSS7KgHaEK?pid=ImgDet&w=474&h=266&rs=1)
 
 - 🏫 Based at **Chengdu University of Technology, Research center of planetary science**  
-- 🔬 Worked on **quantum mechanics calculations** and some cool simulations  
-- 🤖 Currently diving into **AI Agents meets quantum computing**  
+- 🔬 Worked on ** Ab initio Calculation** and some cool simulations  
+- 🤖 Currently diving into **AI Agents meets  Ab initio Calculation**  
 - 🌌 Mission: Pushing the boundaries of AI-driven automated research!  
 - 📧 Email: [huangjunxin167@gmail.com](mailto:huangjunxin167@gmail.com)  
 - 💬 WeChat: **h2005827723** (Feel free to add me to chat about science or code!)  
