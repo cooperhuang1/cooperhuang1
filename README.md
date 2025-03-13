@@ -1,7 +1,6 @@
 # 你好，我是黄俊鑫 👋✨
+https://th.bing.com/th/id/OIP.NCjRipLKkVX0Q-RvQSS7KgHaEK?pid=ImgDet&w=474&h=266&rs=1
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub)  
-*(可以用你喜欢的横幅图片替换这个占位符)*
 
 - 🏫 来自 **成都理工大学行星科学国际研究中心**  
 - 🔬 研究过 **量子力学计算**，做过一些有趣的模拟实验  
@@ -18,9 +17,8 @@
 我喜欢用代码探索宇宙的奥秘，从量子力学到行星科学，每一行代码都像一个小小的魔法咒语 🪄。目前在努力打造智能化的科研助手，希望未来能让 AI 成为科研的小帮手！  
 
 ## 📊 GitHub 小统计
-![Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=aurora)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=aurora)  
-*(别忘了把 “你的GitHub用户名” 换成你自己的用户名哦！)*  
+![Stats](https://github-readme-stats.vercel.app/api?username=cooperhuang1&show_icons=true&theme=aurora)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperhuang1&layout=compact&theme=aurora)    
 
 ## 🐾 一句话
 “用 AI 点亮科学的星空 ✨，一起探索未知吧！”
